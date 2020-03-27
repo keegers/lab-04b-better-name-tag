@@ -4,11 +4,11 @@
 -------
 ## Tips Learned
 - Don't forget to use for click listener:
-'''
+```js
  .addEventListener('click', function () {
 
 })
-'''
+```
 - Use the placeholder for input for 'greyed out' text
 - Use margin: auto for centering when not in flexbox (justify-content is only relevant to flexbox)
 
